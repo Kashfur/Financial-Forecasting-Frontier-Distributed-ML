@@ -58,11 +58,11 @@ Each part is self-contained. Run cells top to bottom within each part.
 
 | Part | What it does | Approximate run time |
 |---|---|---|
-| Part 1 | SQL queries on banking data (Hive simulation) | < 1 min |
-| Part 2 | Exploratory Data Analysis with Spark | 2–3 min |
-| Part 3 | ML models — Logistic Regression + Random Forest | 4–7 min |
-| Part 4 | Real-time stream simulation | 1–2 min |
-| Part 5 | Data parallelism and partition analysis | 2–3 min |
+| Part 1 | SQL queries on banking data (Hive simulation)
+| Part 2 | Exploratory Data Analysis with Spark
+| Part 3 | ML models — Logistic Regression + Random Forest
+| Part 4 | Real-time stream simulation
+| Part 5 | Data parallelism and partition analysis
 
 ### Step 5 — Download output charts
 ```python
